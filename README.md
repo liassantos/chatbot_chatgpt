@@ -1,5 +1,5 @@
 
-# 🤖 Chatbot - v1
+# 🤖 Chatbot
 
 Este é um chatbot em Python que gerencia uma **agenda de contatos** e permite **enviar mensagens automatizadas via WhatsApp**.  
 Utiliza a API da OpenAI com integração de funções (`tools`) para executar ações como busca, inserção e envio de mensagens.  
