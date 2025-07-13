@@ -1,0 +1,54 @@
+{
+    "contatos": [
+        {
+            "nome": "Maria Oliveira",
+            "telefone": "5585988886666",
+            "endereco": "Av. Brasil, 456 - Aldeota, Fortaleza"
+        },
+        {
+            "nome": "José Almeida",
+            "telefone": "5585999990000",
+            "endereco": "Rua das Acácias, 100 - Meireles, Fortaleza"
+        },
+        {
+            "nome": "Ana Beatriz",
+            "telefone": "5585987775555",
+            "endereco": "Rua das Flores, 250 - Dionísio Torres, Fortaleza"
+        },
+        {
+            "nome": "Carlos Henrique",
+            "telefone": "5585981234567",
+            "endereco": "Av. Washington Soares, 900 - Sapiranga, Fortaleza"
+        },
+        {
+            "nome": "Juliana Castro",
+            "telefone": "5585981112233",
+            "endereco": "Rua João Cordeiro, 789 - Praia de Iracema, Fortaleza"
+        },
+        {
+            "nome": "Bruno Fernandes",
+            "telefone": "5585993344556",
+            "endereco": "Av. Dom Luís, 1200 - Meireles, Fortaleza"
+        },
+        {
+            "nome": "Patrícia Lima",
+            "telefone": "5585988889999",
+            "endereco": "Rua Padre Valdevino, 345 - Aldeota, Fortaleza"
+        },
+        {
+            "nome": "Rafael Costa",
+            "telefone": "5585998877665",
+            "endereco": "Rua Leonardo Mota, 210 - Varjota, Fortaleza"
+        },
+        {
+            "nome": "Fernanda Rocha",
+            "telefone": "5585976654433",
+            "endereco": "Rua Senador Pompeu, 99 - Centro, Fortaleza"
+        },
+        {
+            "nome": "Lucas Martins",
+            "telefone": "5585999988776",
+            "endereco": "Av. Beira Mar, 3000 - Mucuripe, Fortaleza"
+        }
+    ]
+}
